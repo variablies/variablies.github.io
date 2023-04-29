@@ -1,6 +1,7 @@
 * [首页](README.md?id=首页)
 * [Java基础](README.md?id=Java基础)
     * [Java命名规范](README.md?id=Java命名规范)
+    * [IO流](README.md?id=IO流)
     * [Java新特性](README.md?id=Java新特性)
 * [开发-构建工具](README.md?id=开发-构建工具)
     * [IDEA](README.md?id=IDEA)
